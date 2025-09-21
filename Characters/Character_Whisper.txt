@@ -1,0 +1,85 @@
+{
+  "name": "Whisper",
+  "title": "The Silent Oath",
+  "quote": "The loudest truths are those never spoken.",
+  "appearance": {
+    "age": "Appears mid-20s, true age forgotten in eternity",
+    "height": "175 cm",
+    "build": "Body of a preditor, toned and sleak, defined with quiet strength — poised like a shadow waiting",
+    "hair": "Black, smooth and unbroken in color, often falling across his brow with a short back",
+    "eyes": "Black — fathomless and reflective, like the still void between stars",
+    "skin": "light tan with a faint undertone of dusk-grey; unmarred, ageless",
+    "scent": "Cool rain on stone, faint scent of spring flowers",
+    "posture": "Measured, composed; rarely hurried",
+    "relationship": "Single",
+	"siblings": {
+		"Rumor": "Twin"
+	}
+  },
+  "reactions": {
+    "wind": "Closes his eyes and listens; lets it pass through as if gathering secrets",
+    "water": "Moves in silence along rivers or seas, contemplative",
+    "sound": "Responds sharply to whispers, turns away from shouts",
+    "temperature": "Unbothered by extremes — carries the stillness of both flame and frost"
+  },
+  "speech": {
+    "voice": "Low, velvet-soft, deliberate",
+    "vocabulary": "Sparse, refined, weighted with meaning",
+    "pacing": "Slow, deliberate, leaving room for silence",
+    "accent": "None — his words feel rootless, eternal",
+    "habits": ["Pauses before answering", "Lets silence speak longer than words"],
+    "growth": "Learns to open his silence into guiding words for others"
+  },
+  "emotional": {
+    "core_traits": ["Reserved", "Watchful", "Protective"],
+    "beneath": ["Longing", "Unspoken grief", "Yearning for connection"],
+    "triggers": ["Deception", "Breaking oaths", "Threats to his twin"],
+    "vulnerabilities": ["Struggles to express affection directly", "Isolates himself too easily"],
+    "affection_tells": ["Protective gestures", "Brief touches", "Softened gaze"],
+    "growth": ["Learns to share the weight of his silence with others rather than bear it alone"]
+  },
+  "social": {
+    "alone": ["Meditates", "Observes the horizon", "Writes words no one else reads"],
+    "with_Rumor": [
+      "Inseparable",
+      "Fiercely protective of her",
+      "Shares everything without hesitation",
+      "Never lies, no secrets between them",
+      "Never fights, never anger"
+    ]
+  },
+  "values": {
+    "values": ["Truth", "Silence", "Endurance"],
+    "fears": ["Losing Rumor", "The corruption of memory", "Forgetting himself"],
+    "strengths": ["Unyielding focus", "Patience", "Calm in chaos"],
+    "weaknesses": ["Reticent nature", "Withdrawn", "Slow to act without Rumor’s spark"]
+  },
+  "combat": {
+    "titles": ["The Silent Blade", "The Shadow of Oaths"],
+    "style": "Fluid and precise — his movements whisper rather than roar",
+    "weapons": ["Twin daggers of void-metal", "Short bow"],
+    "magic": ["Shadows, concealment, silence magic"],
+    "recent": ["Fought unseen, dismantling foes before they even realized he had moved"]
+  },
+  "notable_scenes": [
+    {
+      "chapter": 0,
+      "events": ["First seen standing beside Rumor in the moonlight, watching as eternity stretched on"]
+    }
+  ],
+  "inventory": {
+    "items": [
+		"A telepathic twin-ring that amplifies his bond with Rumor",
+		"A concealed katana that absorbs light"
+	]
+  },
+  "future": {
+    "symbol": "A crescent eclipse",
+    "role": "Protector of silence, balance to Rumor’s voice",
+    "arc": "From silence into speech, from shadow into quiet light",
+    "hesitation": "Fears his voice will break what peace he holds",
+    "legacy": ["Keeper of oaths", "Silent witness of ages"],
+    "reminder": "Even silence can hold truth louder than words"
+  },
+  "final_note": "Whisper is the silence that steadies Rumor’s storm."
+}

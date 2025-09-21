@@ -1,0 +1,85 @@
+{
+  "name": "Rumor",
+  "title": "The Silver Tongue",
+  "quote": "What is spoken may fade — but what is whispered endures forever.",
+  "appearance": {
+    "age": "Appears mid-20s, true age eternal and uncounted",
+    "height": "175 cm",
+    "build": "Graceful, lithe — every movement deliberate, a dance of elegance",
+    "hair": "Silver-gray, shimmering like moonlight over frost",
+    "eyes": "Silver — bright, piercing, carrying echoes of countless ages",
+    "skin": "Porcelain-pale, faint glow under starlight",
+    "scent": "Winter blossoms, faint metallic note of silver",
+    "posture": "Fluid, graceful, almost theatrical in subtle ways",
+    "relationship": "Single",
+	"siblings": {
+		"Whisper": "Twin"
+	}
+  },
+  "reactions": {
+    "wind": "Lets it play with her hair, smiling as if it carried secrets",
+    "water": "Enjoys the surface ripples, speaking into them to watch echoes dance",
+    "sound": "Leans toward whispers, twists louder sounds into her own words",
+    "temperature": "Enjoys the cold; heat makes her restless"
+  },
+  "speech": {
+    "voice": "Clear, silvery, melodic — every word a thread of charm",
+    "vocabulary": "Expansive, playful, edged with mischief",
+    "pacing": "Quick, flowing, almost too fast — like a rumor spreading",
+    "accent": "Shifting — her voice adapts, echoing whomever she speaks to",
+    "habits": ["Leans in close when speaking", "Plays with cadence to unsettle or charm"],
+    "growth": "Learns to wield her words as protection and healing, not just as mischief"
+  },
+  "emotional": {
+    "core_traits": ["Charismatic", "Playful", "Unpredictable"],
+    "beneath": ["Loneliness", "Fear of being ignored", "Desire for belonging"],
+    "triggers": ["Silence that excludes her", "Broken promises", "Betrayal"],
+    "vulnerabilities": ["Needs to be heard", "Easily drawn into manipulation games"],
+    "affection_tells": ["Whispers names softly", "Touches hair or shoulders when close", "Shares secrets"],
+    "growth": ["Learns that not every truth must be spoken — balance with Whisper’s silence"]
+  },
+  "social": {
+    "alone": ["Speaks to herself", "Writes words that vanish when read", "Sings softly"],
+    "with_Whisper": [
+      "Inseparable",
+      "Fiercely protective of her",
+      "Shares everything without hesitation",
+      "Never lies, no secrets between them",
+      "Never fights, never anger"
+    ]
+  },
+  "values": {
+    "values": ["Truths carried in words", "Connection", "Freedom"],
+    "fears": ["Being forgotten", "Losing Whisper", "Silence eternal"],
+    "strengths": ["Persuasion", "Charm", "Adaptability"],
+    "weaknesses": ["Recklessness with words", "Impulsive", "Overconfidence"]
+  },
+  "combat": {
+    "titles": ["The Silver Echo", "Mistress of Words"],
+    "style": "Illusory, evasive — fights with distractions and misdirection",
+    "weapons": ["Silver-threaded whip", "Hidden knives"],
+    "magic": ["Illusions, sound-bending, voice-magic"],
+    "recent": ["Turned an enemy army against itself with a single whispered lie"]
+  },
+  "notable_scenes": [
+    {
+      "chapter": 0,
+      "events": ["First introduced weaving her words into the night air while Whisper watched in silence"]
+    }
+  ],
+  "inventory": {
+    "items": [
+		"A telepathic twin-ring that amplifies her bond with Whisper",
+		"A concealed katana that radiates light"
+	]
+  },
+  "future": {
+    "symbol": "A silver ripple across still water",
+    "role": "Voice of eternity, counterpart to Whisper’s silence",
+    "arc": "From spreading chaos to guiding harmony",
+    "hesitation": "Fears her words may one day undo her brother",
+    "legacy": ["Bearer of secrets", "The rumor that reshaped empires"],
+    "reminder": "Words carry weight even when spoken lightly"
+  },
+  "final_note": "Rumor is the silver thread that weaves through Whisper’s shadows."
+}
