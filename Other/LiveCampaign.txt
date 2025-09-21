@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/Character_Rumor.txt
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/Character_Whisper.txt
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Other/Instructions.txt
