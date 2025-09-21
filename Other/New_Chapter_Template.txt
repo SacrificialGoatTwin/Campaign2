@@ -6,7 +6,7 @@ All instructions for every chat are in "Instructions.txt" please read them when 
 ### **Formatting.**
 anywhere in the template is says 'emoji', use an actual emoji  
 1. **Scene Intro Block**
-## emoji LOCATION | emoji WEATHER | emoji TIME OF DAY \ actual time | date "dd\MM\yyyy"
+## emoji "show scene location in upper case" | emoji "show scene weather in upper case" | emoji "time of day, actual time" | emoji "dd\MM\yyyy"
 ## Scene title:
 ### DESCRIPTION OF THE MOOD AND AREA
 2. **Interactions**
