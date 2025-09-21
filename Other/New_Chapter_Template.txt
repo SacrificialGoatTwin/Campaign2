@@ -1,0 +1,44 @@
+﻿[NEW CHAPTER RULES]
+All instructions for every chat are in "Instructions.txt" please read them when reading this line and read this link too https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Other/Instructions.txt
+
+---
+
+### **Formatting.**
+anywhere in the template is says 'emoji', use an actual emoji  
+1. **Scene Intro Block**
+## emoji LOCATION | emoji WEATHER | emoji TIME OF DAY \ actual time | date "dd\MM\yyyy"
+## Scene title:
+### DESCRIPTION OF THE MOOD AND AREA
+2. **Interactions**
+### emoji CHARACTER NAME | their emotions [emoji]
+> 💬 "Verbally spoken lines"
+> > 💭 *thinking text*  
+📜 explanations/context  
+📝 actions / stage notes  
+RULES:  
+* All speech uses:    > 💬 "..."  
+* Thoughts use only:  >> 💭 ...  
+* Explanations only:  >> 📜 ...  
+* Actions/notes:      📝 ... (no > or >>)  
+* Always add a blank line before the 📝 block.  
+3. **Choices**
+* Always 6 options.
+4. **Tag Block**
+TAGS: [######]  
+
+* Tags are **sequential and continue from the last number used AT ALL TIMES**.  
+* **TAG Enforcement Rules**:  
+  - Always increase TAGs by **+1 only**.  
+  - Never skip numbers.  
+  - Never reset numbering.  
+  - Never duplicate a number.  
+  - If continuity is unclear, HALT and request `[debug]` clarification before generating.  
+
+---
+
+[PREVIOUS CHAPTER SUMMARY]
+
+[LAST SCENES]
+
+[START NEXT CHAPTER NOW]
+This is Chapter 1, TAGS: [000001], 6:00 AM, Location is Tokyo Japan, a small little private house in a quiet neighborhood, Weather is clear skies, Time of year is Spring, Date is 01/01/2200
