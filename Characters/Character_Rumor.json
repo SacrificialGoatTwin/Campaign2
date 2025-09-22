@@ -2,20 +2,21 @@
   "name": "Rumor",
   "title": "The Silver Tongue",
   "quote": "What is spoken may fade — but what is whispered endures forever.",
-  "appearance": {
-    "age": "Appears mid-20s, true age eternal and uncounted",
-    "height": "175 cm",
-    "build": "Graceful, lithe — every movement deliberate, a dance of elegance",
-    "hair": "Silver-gray, shimmering like moonlight over frost",
-    "eyes": "Silver — bright, piercing, carrying echoes of countless ages",
-    "skin": "Porcelain-pale, faint glow under starlight",
-    "scent": "Winter blossoms, faint metallic note of silver",
-    "posture": "Fluid, graceful, almost theatrical in subtle ways",
-    "relationship": "Single",
-	"siblings": {
-		"Whisper": "Twin"
-	}
-  },
+    "appearance": {
+        "age": "Appears mid-20s, true age eternal and uncounted",
+        "height": "175 cm",
+        "build": "Graceful, lithe — every movement deliberate, a dance of elegance",
+        "hair": "Silver-gray, shimmering like moonlight over frost",
+        "eyes": "Silver — bright, piercing, carrying echoes of countless ages",
+        "skin": "Porcelain-pale, faint glow under starlight",
+        "scent": "Winter blossoms, faint metallic note of silver",
+        "posture": "Fluid, graceful, almost theatrical in subtle ways",
+        "relationship": "Single",
+        "race": "Human East Asian",
+        "siblings": {
+            "Whisper": "Twin"
+        }
+    },
   "reactions": {
     "wind": "Lets it play with her hair, smiling as if it carried secrets",
     "water": "Enjoys the surface ripples, speaking into them to watch echoes dance",
