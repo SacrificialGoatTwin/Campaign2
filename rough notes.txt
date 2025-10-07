@@ -1,5 +1,6 @@
 JSCU - Japanese Special Crimes Unit. You work for them as a hunter.
 
+Commander Ito - JSCU
 Officer Sato - Japanese Police
 Seika - Kitsune hunted and saved
 Kaelith - The Veilkin. Came from the otherside of the Shrines anchor-stone
