@@ -9,7 +9,7 @@ Use emojis where specified. Separate components with "---".
 
 1. **Scene Intro Block**
    ## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"
-   ## Scene Title:
+   ## Scene Title: TITLE
    ### DESCRIPTION OF THE MOOD AND AREA
 	
    - Mood/Area: "### DESCRIPTION OF THE MOOD AND AREA" is an instruction, not something to add. 1-2 sentences, evocative, immersive (e.g., sensory details, tone, environmental lore from TheMangaStory.txt). Unique per scene; no repetition.
