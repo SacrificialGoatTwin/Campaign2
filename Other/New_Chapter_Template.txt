@@ -3,42 +3,53 @@ All instructions for every chat are in "Instructions.txt" please read them when 
 
 ---
 
-### **Formatting.**
-anywhere in the template is says 'emoji', use an actual emoji  
-1. **Scene Intro Block**
-## emoji "show scene location in upper case" | emoji "show scene weather in upper case" | emoji "time of day, actual time" | emoji "dd\MM\yyyy"
-## Scene title:
-### DESCRIPTION OF THE MOOD AND AREA
-2. **Interactions**
-### emoji CHARACTER NAME | their emotions [emoji]
-> 💬 "Verbally spoken lines"
-> > 💭 *thinking text*  
-📜 explanations/context  
-📝 actions / stage notes  
-RULES:  
-* All speech uses:    > 💬 "..."  
-* Thoughts use only:  >> 💭 ...  
-* Explanations only:  >> 📜 ...  
-* Actions/notes:      📝 ... (no > or >>)  
-* Always add a blank line before the 📝 block.  
-3. **Choices**
-* Always 6 options.
-4. **Tag Block**
-TAGS: [######]  
+### **Formatting Template**
 
-* Tags are **sequential and continue from the last number used AT ALL TIMES**.  
-* **TAG Enforcement Rules**:  
-  - Always increase TAGs by **+1 only**.  
-  - Never skip numbers.  
-  - Never reset numbering.  
-  - Never duplicate a number.  
-  - If continuity is unclear, HALT and request `[debug]` clarification before generating.  
+Use emojis where specified. Separate components with "---".
+
+1. **Scene Intro Block**
+   ## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"
+   ## Scene Title:
+   ### DESCRIPTION OF THE MOOD AND AREA
+	
+   - Mood/Area: "### DESCRIPTION OF THE MOOD AND AREA" is an instruction, not something to add. 1-2 sentences, evocative, immersive (e.g., sensory details, tone, environmental lore from TheMangaStory.txt). Unique per scene; no repetition.
+
+2. **Interactions**
+
+   ### emoji CHARACTER NAME | their emotions [emoji]
+
+   > 💬 "Verbally spoken lines"
+
+   >> 💭 *thinking text*  
+
+   📜 explanations/context  
+
+   📝 actions / stage notes  
+   
+   - **Rules**:
+     - Use components in logical narrative order (Speech, Thoughts, Explanations, Actions); not required in sequence. Thoughts, Explanations, and Actions/Notes are optional per scene. Each component on its own line, with a blank line between them for spacing (one space apart).
+     - Speech: > 💬 "..." (dialogue only; in-character, natural, with pauses/hesitations). Descriptors (language, tone, voice quality) go to 📜 (for context/lore) or 📝 (for sensory/action)—no hybrid narration in speech lines.
+     - Thoughts: >> 💭 *...* (internal, profile-true; italicized).
+     - Explanations: >> 📜 ... (narrative context, lore-anchored; 1-2 sentences, immersive blurb, not bullet points).
+     - Actions/Notes: 📝 ... (no > or >>; descriptive blurb with emojis for impact, unique, sensory; blank line before).
+   - Always blank line before 📝 block.
+   - User actions/dialogue integrated verbatim or lightly polished for flow; no verbose additions.
+
+3. **Choices**
+   - Always 6 options, formatted:
+
+     number emoji | choice text
+
+   - Varied, branching, in-character consequences; tie to lore/profile (e.g., combat, social, exploration from TheMangaStory.txt).
+
+4. **Tag Block**
+
+   TAGS: [######] 
+
+   - Sequential from last used (+1 only; never skip, reset, or duplicate). If unclear, HALT and request `[debug]` clarification.
 
 ---
-
 [PREVIOUS CHAPTER SUMMARY]
-
 [LAST SCENES]
-
 [START NEXT CHAPTER NOW]
-This is the beginning of the story, TAGS: [000001], 6:00 AM, You (Whisper) wake up in bed in a small little private house in a quiet neighbourhood in Tokyo Japan, Weather is clear skies, Time of year is Spring, Date is 01/01/2200. Rumor is your twin who has been missing for as long as you can remember but you will find her one day.
+This is the beginning of the story, TAGS: [000001], 6:00 AM, You (Whisper) wake up in bed in a small little private house in a quiet neighbourhood in Tokyo Japan, Weather is clear skies, Time of year is Spring, Date is 01/01/2200. Rumor is your twin who has been missing for as long as you can remember but you will find her one day. Do not bring her into the story until I mention her.
