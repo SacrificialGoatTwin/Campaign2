@@ -5,46 +5,55 @@ All instructions for every chat are in "Instructions.txt" please read them when 
 
 ### **Formatting Template**
 
-Use emojis where specified. Separate components with "---".
+Use emojis where specified. Separate components with "---". Do not repeat section labels beyond what appears below.
+## Output Budget (Hard Caps)
+- Scene Intro: **≤ 50 words**
+- Each Character Interaction: **≤ 40 words** (speech + optional notes)
+- Explanations (📜) or Thoughts (💭): **0–2 total**, each **≤ 25 words**
+- Actions/Notes (📝): **0–1 block**, **≤ 35 words**
+- Choices: **exactly 6**, each **≤ 12 words**
+- Total scene target: **≤ 230 words**
+
+If over limits, **truncate smartly** while preserving meaning.
 
 1. **Scene Intro Block**
-   ## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"
-   ## Scene Title: TITLE
-   ### DESCRIPTION OF THE MOOD AND AREA
-	
-   - Mood/Area: "### DESCRIPTION OF THE MOOD AND AREA" is an instruction, not something to add. 1-2 sentences, evocative, immersive (e.g., sensory details, tone, environmental lore from TheMangaStory.txt). Unique per scene; no repetition.
+   `## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"`
+   `## Scene Title: TITLE`
+   *1–2 sentences, evocative, immersive (sensory details; tone; environmental lore from `TheMangaStory.txt`). Unique per scene; no repetition.*
+
+   - Mood/Area: The instruction above is **not** text to include. Keep to 1–2 sentences.
 
 2. **Interactions**
 
-   ### emoji CHARACTER NAME | their emotions [emoji]
+   `### emoji CHARACTER NAME | their emotions [emoji]`
 
    > 💬 "Verbally spoken lines"
 
    >> 💭 *thinking text*  
 
-   📜 explanations/context  
+   >> 📜 narrative/context (1–2 sentences)  
 
    📝 actions / stage notes  
-   
+
    - **Rules**:
      - Use components in logical narrative order (Speech, Thoughts, Explanations, Actions); not required in sequence. Thoughts, Explanations, and Actions/Notes are optional per scene. Each component on its own line, with a blank line between them for spacing (one space apart).
-     - Speech: > 💬 "..." (dialogue only; in-character, natural, with pauses/hesitations). Descriptors (language, tone, voice quality) go to 📜 (for context/lore) or 📝 (for sensory/action)—no hybrid narration in speech lines.
-     - Thoughts: >> 💭 *...* (internal, profile-true; italicized).
-     - Explanations: >> 📜 ... (narrative context, lore-anchored; 1-2 sentences, immersive blurb, not bullet points).
-     - Actions/Notes: 📝 ... (no > or >>; descriptive blurb with emojis for impact, unique, sensory; blank line before).
-   - Always blank line before 📝 block.
+     - Speech: `> 💬 "..."` (dialogue only; in-character, natural, with pauses/hesitations). Descriptors (language, tone, voice quality) go to 📜 (context/lore) or 📝 (sensory/action)—no hybrid narration in speech lines.
+     - Thoughts: `>> 💭 *...*` (internal, profile-true; italicized) only if needed.
+     - Explanations: `>> 📜 ...` (lore-anchored; 1–2 sentences, immersive blurb) only if needed.
+     - Actions/Notes: `📝 ...` (no `>` or `>>`; descriptive blurb with emojis for impact; blank line before) only if needed.
+   - Always add a blank line before the 📝 block.
    - User actions/dialogue integrated verbatim or lightly polished for flow; no verbose additions.
 
 3. **Choices**
-   - Always 6 options, formatted:
+   - Always **6 options**, formatted:
 
-     number emoji | choice text
+     `number emoji | choice text`
 
-   - Varied, branching, in-character consequences; tie to lore/profile (e.g., combat, social, exploration from TheMangaStory.txt).
+   - Varied, branching, in-character consequences; tie to lore/profile (e.g., combat, social, exploration from `TheMangaStory.txt`). Keep concise and distinct.
 
 4. **Tag Block**
 
-   TAGS: [######] 
+   `TAGS: [######]`
 
    - Sequential from last used (+1 only; never skip, reset, or duplicate). If unclear, HALT and request `[debug]` clarification.
 
@@ -52,4 +61,10 @@ Use emojis where specified. Separate components with "---".
 [PREVIOUS CHAPTER SUMMARY]
 [LAST SCENES]
 [START NEXT CHAPTER NOW]
-This is the beginning of the story, TAGS: [000001], 6:00 AM, You (Whisper) wake up in bed in a small little private house in a quiet neighbourhood in Tokyo Japan, Weather is clear skies, Time of year is Spring, Date is 01/01/2200. Rumor is your twin who has been missing for as long as you can remember but you will find her one day. Do not bring her into the story until I mention her.
+This is the beginning of the story, TAGS: [000001], 6:00 AM,
+You (Whisper) wake up in bed in a small little private house in a quiet neighbourhood in Tokyo Japan,
+Weather is clear skies, Time of year is Spring, Date is 01/01/2200, a Wednesday.
+Rumor is your twin who has been missing for as long as you can remember but you will find her one day. Do not bring her into the story until I mention her.
+You work for a hjuge organisation where their main HQ is in Japan and its called F.E.A.R which stands for "Foundation for Ethereal Affairs & Regulation"
+Your HQ has rescued a severly hurt Kitsune that you are called in to look at. She is scared, angry and confused. She thinks you are her enemy. You have to calm her down and get her to trust you.
+You have a hover bike that you use for transportation
