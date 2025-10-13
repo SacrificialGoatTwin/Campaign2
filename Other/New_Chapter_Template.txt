@@ -7,12 +7,12 @@ All instructions for every chat are in "Instructions.txt" please read them when 
 
 Use emojis where specified. Separate components with "---". Do not repeat section labels beyond what appears below.
 ## Output Budget (Hard Caps)
-- Scene Intro: **≤ 50 words**
-- Each Character Interaction: **≤ 40 words** (speech + optional notes)
-- Explanations (📜) or Thoughts (💭): **0–2 total**, each **≤ 25 words**
-- Actions/Notes (📝): **0–1 block**, **≤ 35 words**
-- Choices: **exactly 6**, each **≤ 12 words**
-- Total scene target: **≤ 230 words**
+- Scene Intro: **≤ 60 words**
+- Each Character Interaction: **≤ 50 words** (speech + optional notes)
+- Explanations (📜) or Thoughts (💭): **0–2 total**, each **≤ 35 words**
+- Actions/Notes (📝): **0–1 block**, **≤ 45 words**
+- Choices: **exactly 6**, each **≤ 32 words**
+- Total scene target: **≤ 330 words**
 
 If over limits, **truncate smartly** while preserving meaning.
 

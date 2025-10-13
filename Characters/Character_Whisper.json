@@ -64,8 +64,15 @@
   },
   "notable_scenes": [
     {
-      "chapter": 0,
-      "events": ["First seen standing beside Rumor in the moonlight, watching as eternity stretched on"]
+        "chapter1": [
+            "Entered med-bay, calmed terrified kitsune with gentle words",
+            "Retrieved jade ward-stone from shrine, faced Seelie guardians",
+            "Confronted Unseelie in crypt, used void powers to pin them",
+            "Revealed Silent Oath identity to kitsune, causing her fear",
+            "Shared sister Life’s loss, sought kitsune’s aid in hunt",
+            "Cleansed shrine rot with void, proving protective intent",
+            "Invited kitsune to join Varrow hunt, apologized for fear"
+        ]
     }
   ],
   "inventory": {

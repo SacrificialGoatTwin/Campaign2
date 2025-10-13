@@ -1,0 +1,91 @@
+{
+	"name": "Unknown",
+	"title": "The Embered Guardian",
+	"quote": "A flame flickers free, but its spark guards the shrine eternal.",
+	"appearance": {
+		"age": "Appears mid-20s, true age veiled in foxfire's mystery",
+		"height": "165 cm",
+		"build": "Lithe, agile — movements fluid like a storm's dance",
+		"hair": "Silver, flowing in loose waves, damp with storm's breath",
+		"eyes": "Emerald green — piercing, wild, with slit pupils that shift in fear or cunning",
+		"skin": "Porcelain-pale, flushed with emotion, faintly luminous in shadow",
+		"scent": "Jasmine, laced with ozone's sharp storm-crackle",
+		"posture": "Graceful yet tense, poised like a predator or shrine sentinel",
+		"relationship": "Single",
+		"race": "Kitsune",
+		"siblings": {
+			"None": "No known kin"
+		},
+		"tails": "Three, silvery and singed, expressive and trailing faint foxfire"
+	},
+	"reactions": {
+		"wind": "Tails sway, ears perk, as if catching whispered secrets",
+		"water": "Watches ripples with wary eyes, mirroring her own illusions",
+		"sound": "Flinches at harsh noise, leans into soft shrine chants",
+		"temperature": "Thrives in cool air; heat stirs restless claws"
+	},
+	"speech": {
+		"voice": "Melodic, sharp-edged, laced with storm's cadence",
+		"vocabulary": "Poetic, sly, edged with clan wit and caution",
+		"pacing": "Quick when defiant, halting when fear grips",
+		"accent": "Faintly otherworldly, echoing ancient shrine dialects",
+		"habits": [ "Claws tap when probing", "Tails flick to punctuate defiance" ],
+		"growth": "Learns to temper vengeance with cautious trust"
+	},
+	"emotional": {
+		"core_traits": [ "Wary", "Vengeful", "Curious" ],
+		"beneath": [ "Fear of betrayal", "Longing for clan", "Dread of legend's truth" ],
+		"triggers": [ "Unseelie taint", "Threats to shrine", "Reaper myths" ],
+		"vulnerabilities": [ "Distrust of mortals", "Clings to jade ward" ],
+		"affection_tells": [ "Tails curl softly", "Shares shrine secrets hesitantly" ],
+		"growth": [ "Learns to trust beyond clan", "balancing fire with mercy" ]
+	},
+	"social": {
+		"alone": [ "Murmurs to jade", "Weaves illusions to mimic lost kin", "Hums shrine songs" ],
+		"with_others": [
+			"Wary and probing",
+			"Fiercely protective of shrine relics",
+			"Shares secrets only under trust",
+			"Challenges authority with sly barbs",
+			"Never fully lowers guard"
+		]
+	},
+	"values": {
+		"values": [ "Shrine's sanctity", "Clan loyalty", "Freedom from taint" ],
+		"fears": [ "Unseelie domination", "Loss of flame", "Legendary reapers" ],
+		"strengths": [ "Illusion-craft", "Cunning", "Resilience" ],
+		"weaknesses": [ "Quick to distrust", "Vengeful impulsiveness", "Myth-driven fear" ]
+	},
+	"combat": {
+		"titles": [ "The Shrine’s Ember", "Claw of the Threshold" ],
+		"style": "Evasive, illusion-driven — strikes with foxfire and misdirection",
+		"weapons": [ "Claws, naturally sharp", "Foxfire bursts" ],
+		"magic": [ "Shapeshifting", "Illusion-weaving", "Storm and fire magic" ],
+		"recent": [ "Fled Unseelie ambush, scarred by thorn-seed graft" ]
+	},
+	"notable_scenes": [
+		{
+			"chapter1": [
+				"Rescued by Whisper in F.E.A.R. med-bay, cowering and defiant",
+				"Performed jade ward-stone rite with Whisper",
+				"Faced Whisper’s void-form, recoiling in terror",
+				"Agreed to join Whisper’s hunt for Varrow"
+			]
+		}
+	],
+	"inventory": {
+		"items": [
+			"A jade ward-stone, etched with fox-claw crescent",
+			"A loose robe, shrine-woven"
+		]
+	},
+	"future": {
+		"symbol": "A flickering foxfire ember in storm’s eye",
+		"role": "Guardian of thresholds, spark of clan resurgence",
+		"arc": "From vengeful flight to tempered alliance",
+		"hesitation": "Fears trusting mortals may bind her flame to their ends",
+		"legacy": [ "Restorer of shrine", "Fox who defied Unseelie rot" ],
+		"reminder": "Even fleeting flames burn eternal in the right shadow"
+	},
+	"final_note": "The kitsune is the ember that guards the shrine’s heart, flickering between fear and cunning."
+}
