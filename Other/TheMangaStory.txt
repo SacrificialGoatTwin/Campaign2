@@ -106,13 +106,207 @@
         "name": "Ironfang Packs",
         "description": "Corrupted beastfolk consumed by rage and bloodlust.",
         "threat_level": "High"
+      },
+
+      {
+        "name": "Neon Wraiths",
+        "description": "Light-born phantoms that ride along signage and holo-billboards, stepping out when the power flickers.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Glass Seraphs",
+        "description": "Shattered-window angels that assemble from city debris; protective until startled, then razor-fast.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Rust Wyrms",
+        "description": "Serpentine colonies of nanofleas that eat oxidation and metal fatigue, hollowing vehicles and bridges.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Circuit Lurkers",
+        "description": "Gremlin-like sprites living inside old grids; short out sensors and make doors forget how to open.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Ember Moths",
+        "description": "Palm-sized fire-kissed moths that drink heat; harmless alone, but swarms can blackout districts.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Null Bloom",
+        "description": "Static-white flowers that unfold in midair; their pollen erases recent memories for a few minutes.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Skylight Krakens",
+        "description": "Tangle-limbed cloud-beasts seen during electrical storms; descend as ropes of mist that lift stragglers.",
+        "threat_level": "Catastrophic"
+      },
+      {
+        "name": "Gutter Saints",
+        "description": "Hooded silhouettes that clean blood and graffiti at night; gentle until their ritual path is blocked.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Dream Masons",
+        "description": "Invisible architects that rearrange alleys and stairwells while you sleep, shifting city geometry.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Bone Choir",
+        "description": "Harmless birdlike shells that mimic sirens and lullabies; prolonged listening induces dangerous sleepwalking.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Iron Widows",
+        "description": "Street-sculpture spiders that weave cables into traps; territorial around substations and rail yards.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Ozone Priests",
+        "description": "Blue-robed figures seen ahead of heat lightning; they bless rooftops, then call winds that knock climbers down.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Mirror Jackals",
+        "description": "Predators that exist only in reflections; drag victims a step ‘sideways’ if chased into mirror-lit halls.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Tide Apostles",
+        "description": "Salt-encrusted walkers from storm drains; speak in wave-pattern rhythms that lure listeners toward seawalls.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Cinder Drakes",
+        "description": "Wingless rooftop lizards that vent hot ash; spark rooftop fires when nesting is disturbed.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Paper Wolves",
+        "description": "Origami canids animated by unresolved letters; track the names inked on their folded hides.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Lantern Brides",
+        "description": "Tall figures with lanterns for heads; guide the lost to safety—or to places they need to confront.",
+        "threat_level": "Variable"
+      },
+      {
+        "name": "Subsonic Crows",
+        "description": "Murder flocks whose wingbeats carry infrasound; cause nausea, vertigo, and poor decisions in crowds.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Pavement Leviers",
+        "description": "Burrowing slabs that ‘breathe’ under streets, shifting manholes and tripping patrols.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Hollow Kings",
+        "description": "Abandoned exo-suits that believe they still rule; enforce imaginary curfews with recorded decrees.",
+        "threat_level": "High"
+      },
+
+      {
+        "name": "Mossback Torto",
+        "description": "Peaceful beastfolk—slow-speaking tortoise elders who tend rooftop gardens and trade herbal remedies.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Willow Hinds",
+        "description": "Peaceful beastfolk—deer-kin caretakers of shrine groves; guide travelers if treated with courtesy.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Coast Otter Clans",
+        "description": "Peaceful beastfolk—playful river and harbor foragers; skilled at salvage and knot-lore.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Stone Badgers",
+        "description": "Peaceful beastfolk—burrow-builders who reinforce tunnels and stabilize quake-damaged blocks.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Skylark Sprites",
+        "description": "Peaceful beastfolk—avian-lilt messengers who relay news between rooftops; wary but friendly.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Sunmane Lions",
+        "description": "Peaceful beastfolk—honor-bound lion-kin who mediate disputes; intervene only to stop cruelty.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "River Pangolins",
+        "description": "Peaceful beastfolk—scale-plated archivists who ferry seedbanks and repair flood wards.",
+        "threat_level": "Low"
+      },
+      {
+        "name": "Lantern Foxes",
+        "description": "Peaceful beastfolk—small fox-kin with bioluminescent tails; light evacuation routes in storms.",
+        "threat_level": "Low"
+      },
+
+      {
+        "name": "Ironfang Berserkers",
+        "description": "Angry beastfolk—rage-sick offshoot of wolf-kin; strike in frenzied packs when blood is spilled.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Cinderboar Sounders",
+        "description": "Angry beastfolk—boar-kin with furnace breath; charge lines and topple barricades when provoked.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Glass Jackals",
+        "description": "Angry beastfolk—jackal-kin with shard-bright eyes; scavenger tacticians that test perimeters nightly.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Razor Kites",
+        "description": "Angry beastfolk—kite-bird raiders who dive-bomb lanterns and steal supplies mid-flight.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Grudge Bears",
+        "description": "Angry beastfolk—bear-kin who keep old hurts like ledgers; smash toll gates and tithe posts.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Thorn Martens",
+        "description": "Angry beastfolk—tree-line skirmishers that lay snare-vines and harry patrols at dusk.",
+        "threat_level": "Moderate"
+      },
+      {
+        "name": "Salt Hyenas",
+        "description": "Angry beastfolk—coastline raiders with brine-crusted manes; laugh-screams unsettle guards.",
+        "threat_level": "High"
+      },
+      {
+        "name": "Soot Ram Herds",
+        "description": "Angry beastfolk—smoke-horned rams that stampede through foundries when sirens wail.",
+        "threat_level": "Moderate"
       }
     ]
   },
+  {
   "map_concepts": {
     "undercities": "Dwarven forges and lost human sub-levels beneath megacities.",
     "hidden_forests": "Bio-shielded elf sanctuaries where trees glow with living light.",
-    "fey_thresholds": "Doorways in urban alleys, abandoned stations, and deep woods that lead to alien courts."
+    "fey_thresholds": "Doorways in urban alleys, abandoned stations, and deep woods that lead to alien courts.",
+    "leviathan_graveyards": "Storm-locked ocean tracts littered with bones the size of towers; currents behave like nervous systems.",
+    "sky_archipelagos": "Floating isles anchored to ancient wards; accessible by storm elevators and dragon thermals.",
+    "ghostnet_reefs": "Sunken fiber-optic webs colonized by mer engineers and bioluminescent polyps.",
+    "iron_veins": "Planet-spanning rail-tunnels that the dwarves call the World-Stitch; some lines move when unobserved.",
+    "moon_sanctums": "Coldlight observatories tended by sphinxes; riddles map the safest nights to cross court borders.",
+    "ember_routes": "Volcanic caravan paths protected by salamander guilds; heat mirages hide oasis-markets.",
+    "echo_bazaars": "Markets that appear in the same plaza across multiple cities at once; trade is bound by oath-chimes.",
+    "titan_steps": "Giant-made switchbacks carved into mountain faces; each step is a village terrace.",
+    "storm_corridors": "Predictable lightning highways used by avian couriers and sky-whales during migration.",
+    "mirror_metros": "Transit lines that run inside reflections; tickets are polished silver and names are written backwards."
   },
   "faction_rosters": {
     "elves": {
@@ -134,6 +328,77 @@
       "leaders": ["Queen Thryssa of the Seelie", "Lord Varrow of the Unseelie"],
       "rivalries": "Endless courtly wars of trickery and betrayal.",
       "secrets": "They may have seeded humanity’s myths to control them."
+    },
+
+    "merfolk": {
+      "leaders": ["Admiral Nerissa Tidechain", "Archivist Pelagos-3"],
+      "rivalries": "Harbor clans feud with deep-trench monastery schools over contact with surface trade.",
+      "secrets": "They can read data-ghosts lingering in undersea cables like scripture."
+    },
+    "dragons": {
+      "leaders": ["Vyr Khol the Ledgered Ember", "Aurelion of the Nine Ledgers"],
+      "rivalries": "Old hoardlords vs young venture-drakes on whether wealth is gold or information.",
+      "secrets": "Some ‘extinct’ flights exist as corporate holding companies with airspace charters."
+    },
+    "giants": {
+      "leaders": ["Cloudspeaker Hrold", "Matron Basalt of the Deep Strata"],
+      "rivalries": "Sky-born cloud giants disdain stone-born titans for ‘crawling’ politics.",
+      "secrets": "They terraform by humming—mountain resonance shifts weather over seasons."
+    },
+    "goblins": {
+      "leaders": ["Tinkermayor Rizzit Switchcap", "Union Boss Kettlegrin"],
+      "rivalries": "Tinker guilds vs street syndicates over salvage rights.",
+      "secrets": "They hide the fail-safes for two megacity power grids inside children’s wind-up toys."
+    },
+    "dryads": {
+      "leaders": ["Thaleia of the Amber Phloem", "Yew-Warden Moru"],
+      "rivalries": "Urban park-spirits resent old-growth matrons for ‘hoarding’ sap routes.",
+      "secrets": "They can migrate a forest single-tree-at-a-time along subway medians."
+    },
+    "nocturnals": {
+      "leaders": ["Countess Vespara of the Violet Gate", "Doctor Lumen Black"],
+      "rivalries": "Ethical hemovores vs predators who treat cities as farms.",
+      "secrets": "They engineered synthetic vitae centuries ago but suppress it to control politics."
+    },
+    "therian_clans": {
+      "leaders": ["Redtooth Marrok", "Swift-Pride Anya"],
+      "rivalries": "Wolves, panthers, and bears argue over ward-patrol doctrine and human alliances.",
+      "secrets": "Moon-rituals are a cover; true trigger is infrasound buried in city sirens."
+    },
+    "naga": {
+      "leaders": ["Speaker Sesha Coilwise", "General Narkesh of the Seven Helms"],
+      "rivalries": "Temple guardians vs militant river legions over interventionism.",
+      "secrets": "Their ‘curse’ is voluntary—shedding to change identities in plain sight."
+    },
+    "avians": {
+      "leaders": ["Harrier-King Talos", "Stormscribe Irielle"],
+      "rivalries": "Courier guilds vs sky-priests over control of storm corridors.",
+      "secrets": "They map lightning like rail timetables and can predict strikes to the second."
+    },
+    "selkies": {
+      "leaders": ["Matriarch Eira of the Seal-Clad", "Broker Finn Tidecloak"],
+      "rivalries": "Family pods feud with mercantile brokers over pelt-rite traditions.",
+      "secrets": "They run witness-protection ‘harbors’ by loaning skins and new names."
+    },
+    "salamanders": {
+      "leaders": ["Kilnmaster Pyrr", "Cinder-Monk Vaela"],
+      "rivalries": "Forge orders vs ascetic fire-walkers on whether flame is tool or teacher.",
+      "secrets": "They can smelt memory into glass beads that replay moments when warmed."
+    },
+    "sphinx_conclave": {
+      "leaders": ["Asha-of-Three-Questions", "Regent Nebu of Sand and Code"],
+      "rivalries": "Traditional riddle-law vs modern ‘captcha courts’ that adjudicate digital oaths.",
+      "secrets": "They maintain a hidden ledger of true names that can unlock fey thresholds safely."
+    },
+    "tanuki_consortium": {
+      "leaders": ["Chairman Boro of Seven Bottles", "Auditor Hachi-Patch"],
+      "rivalries": "Prank cooperatives vs sober accountants over how much chaos is ‘good business.’",
+      "secrets": "They own 11% of vending machines in the Eastern Bloc—every third is a disguised gatekeeper."
+    },
+    "djinn": {
+      "leaders": ["Arbitrator Zafir al-Haze", "Glassbound Layla"],
+      "rivalries": "Free-wind courts vs bound-contract houses over wish ethics.",
+      "secrets": "Most ‘three-wish’ myths are NDAs; real bargains are amortized across generations."
     }
   },
   "adventure_modules": [
