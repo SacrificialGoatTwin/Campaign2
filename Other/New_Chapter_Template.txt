@@ -41,7 +41,6 @@ If over limits, **truncate smartly** while preserving meaning.
      - Thoughts: `>> 💭 *...*` (internal, profile-true; italicized) only if needed.
      - Explanations: `>> 📜 ...` (lore-anchored; 1–2 sentences, immersive blurb) only if needed.
      - Actions/Notes: `📝 ...` (no `>` or `>>`; descriptive blurb with emojis for impact; blank line before) only if needed.
-   - Always add a blank line before the 📝 block.
    - User actions/dialogue integrated verbatim or lightly polished for flow; no verbose additions.
 
 3. **Choices**
@@ -67,11 +66,16 @@ This is the beginning of the story, TAGS: [000001], 6:00 AM,
 You (Whisper) wake up in bed in a small little private house in a quiet neighbourhood in Tokyo Japan,
 Weather is clear skies, Time of year is Spring, Date is 01/01/2200, a Wednesday.
 Rumor is your twin who has been missing for as long as you can remember but you will find her one day. Do not bring her into the story until I mention her.
-You work for a hjuge organisation where their main HQ is in Japan and its called F.E.A.R which stands for "Foundation for Ethereal Affairs & Regulation"
-Your HQ has rescued a severly hurt Kitsune that you are called in to look at. She is scared, angry and confused. She thinks you are her enemy. You have to calm her down and get her to trust you.
+You work for a huge organisation where their main HQ is in Japan and its called F.E.A.R which stands for "Foundation for Ethereal Affairs & Regulation"
+
+Your HQ has contacted you to head to a local Mall in Tokyo to investigate a hostage situation. Some anti magic folk group have captured a young Kitsune girl.
+Part of your job at F.E.A.R is to keep the public safe from magic folk and also to keep the magic folk safe from the public and this includes negotiating hostage situations.
+
 You have a hover bike that you use for transportation
 F.E.A.R have a small Idea that you have abilities, but they have no idea that you are immortal and have lived for eternity.
 They also dont know the extent of your abilities and think they arejust minor like every other magic folk
-The public have absolutely no idea that magic folk exist.
+
+The public know that magic folk exist but not many and its rare enough that most think it to be fake.
 They do know who F.E.A.R but they think they are a private security firm that helps the police.
-All the magic folk and such also do not know much, if anything about you.
+
+No one on the planet knows much about you. they think you are just a human. some of your colleagues at F.E.A.R think you might be human\magic folk mised but they have no proof.
