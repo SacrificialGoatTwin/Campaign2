@@ -1,62 +1,6 @@
 ﻿[NEW CHAPTER RULES]
 All instructions for every chat are in "Instructions.txt" please read them when reading this line and read this link too https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Other/Instructions.txt
 
----
-
-### **Formatting Template**
-
-Use emojis where specified. Separate components with "---". Do not repeat section labels beyond what appears below.
-## Output Budget (Hard Caps)
-- Scene Intro: **≤ 60 words**
-- Each Character Interaction: **≤ 50 words** (speech + optional notes)
-- Explanations (📜) or Thoughts (💭): **0–2 total**, each **≤ 35 words**
-- Actions/Notes (📝): **0–1 block**, **≤ 45 words**
-- Choices: **exactly 6**, each **≤ 32 words**
-- Total scene target: **≤ 330 words**
-
-If over limits, **truncate smartly** while preserving meaning.
-
-1. **Scene Intro Block**
-   `## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"`
-   `## Scene Title: TITLE`
-   *1–2 sentences, evocative, immersive (sensory details; tone; environmental lore from `TheMangaStory.txt`). Unique per scene; no repetition.*
-
-   - Mood/Area: The instruction above is **not** text to include. Keep to 1–2 sentences.
-
-2. **Interactions**
-
-   `### emoji CHARACTER NAME | their emotions [emoji]`
-
-   > 💬 "Verbally spoken lines"
-
-   >> 💭 *thinking text*  
-
-   >> 📜 narrative/context (1–2 sentences)  
-
-   📝 actions / stage notes  
-
-   - **Rules**:
-     - Use components in logical narrative order (Speech, Thoughts, Explanations, Actions); not required in sequence. Thoughts, Explanations, and Actions/Notes are optional per scene. Each component on its own line, with a blank line between them for spacing (one space apart).
-     - Speech: `> 💬 "..."` (dialogue only; in-character, natural, with pauses/hesitations). Descriptors (language, tone, voice quality) go to 📜 (context/lore) or 📝 (sensory/action)—no hybrid narration in speech lines.
-     - Thoughts: `>> 💭 *...*` (internal, profile-true; italicized) only if needed.
-     - Explanations: `>> 📜 ...` (lore-anchored; 1–2 sentences, immersive blurb) only if needed.
-     - Actions/Notes: `📝 ...` (no `>` or `>>`; descriptive blurb with emojis for impact; blank line before) only if needed.
-   - User actions/dialogue integrated verbatim or lightly polished for flow; no verbose additions.
-
-3. **Choices**
-   - Always **6 options**, formatted:
-
-     `number emoji | choice text`
-
-   - Varied, branching, in-character consequences; tie to lore/profile (e.g., combat, social, exploration from `TheMangaStory.txt`). Keep concise and distinct.
-
-4. **Tag Block**
-
-   `TAGS: [######]`
-
-   - Sequential from last used (+1 only; never skip, reset, or duplicate). If unclear, HALT and request `[debug]` clarification.
-
----
 [PREVIOUS CHAPTER SUMMARY]
 
 [LAST SCENES]

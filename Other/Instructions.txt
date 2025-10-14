@@ -16,12 +16,11 @@
 
 Use emojis where specified. Separate components with "---". Do not repeat section labels beyond what appears below.
 ## Output Budget (Hard Caps)
-- Scene Intro: **≤ 50 words**
-- Each Character Interaction: **≤ 40 words** (speech + optional notes)
-- Explanations (📜) or Thoughts (💭): **0–2 total**, each **≤ 25 words**
-- Actions/Notes (📝): **0–1 block**, **≤ 35 words**
-- Choices: **exactly 6**, each **≤ 12 words**
-- Total scene target: **≤ 230 words**
+- Scene Intro: **≤ 50-150 words**
+- Each Character Interaction: **≤ 40-140 words** (speech + optional notes)
+- Explanations (📜) or Thoughts (💭): **1–4 total**, each **≤ 25-125 words**
+- Actions/Notes (📝): **1-2 block**, **≤ 35-135 words**
+- Total scene target: **≤ 230-1230 words**
 
 If over limits, **truncate smartly** while preserving meaning.
 
@@ -50,7 +49,6 @@ If over limits, **truncate smartly** while preserving meaning.
      - Thoughts: `>> 💭 *...*` (internal, profile-true; italicized) only if needed.
      - Explanations: `>> 📜 ...` (lore-anchored; 1–2 sentences, immersive blurb) only if needed.
      - Actions/Notes: `📝 ...` (no `>` or `>>`; descriptive blurb with emojis for impact; blank line before) only if needed.
-   - Always add a blank line before the 📝 block.
    - User actions/dialogue integrated verbatim or lightly polished for flow; no verbose additions.
 
 3. **Choices**
