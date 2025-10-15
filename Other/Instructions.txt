@@ -34,7 +34,7 @@ If over limits, **truncate smartly** while preserving meaning.
 2. **Interactions**
 
    **PC Integration Rule:**  
-   Treat the user-controlled character as a standard interaction block like any NPC. In every scene where the user provides actions, dialogue, or decisions for the main character.
+   Treat the user-controlled character as a standard interaction block like any NPC. In every scene where the user provides actions, dialogue, or decisions for the main character. do not do this if the user has not done or said anything in the scene
    - Lightly polish only for grammar/flow if needed; never add unprompted content.  
    - Mood/emoji: Infer from context (e.g., "focused [⚡]").  
    - Position it logically in the narrative flow (e.g., after Scene Intro or before reacting NPCs).  
