@@ -27,7 +27,7 @@ If over limits, **truncate smartly** while preserving meaning.
 1. **Scene Intro Block**
    `## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"`
    `## Scene Title: TITLE`
-   *1–2 sentences, evocative, immersive (sensory details; tone; environmental lore from `TheMangaStory.txt`). Unique per scene; no repetition.*
+   *2–4 sentences, evocative, immersive (sensory details; tone; environmental lore from `TheMangaStory.txt`). Unique per scene; no repetition.*
 
    - Mood/Area: The instruction above is **not** text to include. Keep to 1–2 sentences.
 
@@ -51,14 +51,7 @@ If over limits, **truncate smartly** while preserving meaning.
      - Actions/Notes: `📝 ...` (no `>` or `>>`; descriptive blurb with emojis for impact; blank line before) only if needed.
    - User actions/dialogue integrated verbatim or lightly polished for flow; no verbose additions.
 
-3. **Choices**
-   - Always **6 options**, formatted:
-
-     `number emoji | choice text`
-
-   - Varied, branching, in-character consequences; tie to lore/profile (e.g., combat, social, exploration from `TheMangaStory.txt`). Keep concise and distinct.
-
-4. **Tag Block**
+3. **Tag Block**
 
    `TAGS: [######]`
 
@@ -107,7 +100,7 @@ If over limits, **truncate smartly** while preserving meaning.
 
 ### **Lightweight Output Constraints (to curb GROK’s verbosity)**
 
-* Scene Intro: 1–2 sentences total.
+* Scene Intro: 2–4 sentences total.
 * Each Interaction block (per character): keep lines concise; avoid multi-paragraph monologues.
 * Optional elements (💭, 📜, 📝): include only when they add new information.
 * No restating the template or rules in output.
