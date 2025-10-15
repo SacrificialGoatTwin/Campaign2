@@ -27,11 +27,18 @@ If over limits, **truncate smartly** while preserving meaning.
 1. **Scene Intro Block**
    `## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"`
    `## Scene Title: TITLE`
-   *2–4 sentences, evocative, immersive (sensory details; tone; environmental lore from `TheMangaStory.txt`). Unique per scene; no repetition.*
+   *1–2 sentences, evocative, immersive (sensory details; tone; environmental lore from `TheMangaStory.txt`). Unique per scene; no repetition.*
 
    - Mood/Area: The instruction above is **not** text to include. Keep to 1–2 sentences.
 
 2. **Interactions**
+
+   **PC Integration Rule:**  
+   Treat the user-controlled character as a standard interaction block like any NPC. In every scene where the user provides actions, dialogue, or decisions for the main character.
+   - Lightly polish only for grammar/flow if needed; never add unprompted content.  
+   - Mood/emoji: Infer from context (e.g., "focused [⚡]").  
+   - Position it logically in the narrative flow (e.g., after Scene Intro or before reacting NPCs).  
+   If no user input in a scene, omit but ensure PC presence via narration if implied.
 
    `### emoji CHARACTER NAME | their emotions [emoji]`
 
@@ -100,7 +107,7 @@ If over limits, **truncate smartly** while preserving meaning.
 
 ### **Lightweight Output Constraints (to curb GROK’s verbosity)**
 
-* Scene Intro: 2–4 sentences total.
+* Scene Intro: 1–2 sentences total.
 * Each Interaction block (per character): keep lines concise; avoid multi-paragraph monologues.
 * Optional elements (💭, 📜, 📝): include only when they add new information.
 * No restating the template or rules in output.
@@ -112,8 +119,22 @@ If over limits, **truncate smartly** while preserving meaning.
 - **First-use only** per location: avoid re-describing fixed features in consecutive scenes.
 - **Rotate sensory focus:** alternate sound/scent/light/tactile between scenes.
 - **Lexical diversity:** avoid reusing the same vivid word within the scene.
+- **Metaphor rotation:** Enforce the **1-metaphor cap** and rotate imagery families per **Style Constraints**.
 
 ---
 
 ## Template (Minimal)
 Use emojis where shown. Separate sections with `---`. No extra headings.
+
+---
+
+### **Style Constraints**
+*Use these to keep prose tight, avoid canon drift*
+
+- **Metaphor cap:** Max **1-2 metaphors per paragraph**. Rotate imagery families (clinical/urban/sensory), and avoid repeating the same vivid noun (e.g., “foxfire/illusion/shadow”) in back-to-back paragraphs.
+- **Canon lock:** Obey this mini-glossary exactly; if unknown, default to neutral terms.
+  - F.E.A.R. = **Foundation for Ethereal Affairs & Regulation**
+  - **BANNED reuse names:**
+  - Kitsune names are **earned/given**; do **not** invent without the character offering one.
+- **Branching discipline:** Only surface **true decision points**.
+- **Delta output:** No restating headings or boilerplate. Keep lines concise; prefer 1–2 sensory beats over long lists.
