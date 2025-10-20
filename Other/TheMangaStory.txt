@@ -7,37 +7,78 @@
     "tone": "The world teeters on the edge of discovery. Nothing has broken yet — but everything could."
   },
   "peoples_of_magic": {
-    "elves": {
-      "domains": ["Amazon", "Siberia", "hidden biodomes"],
-      "powers": ["Biomancy", "nature-shaping"],
-      "agenda": "Preserve Earth’s wilds; split between isolationists and reformers."
-    },
-    "dwarves": {
-      "domains": ["Subterranean forge-cities beneath tectonic seams and megacities"],
-      "powers": ["Rune-forging", "resonance metallurgy"],
-      "agenda": "Maintain secrecy while feeding human industries with miracle alloys."
-    },
-    "kitsune": {
-      "domains": ["Shrines", "spirit-woods", "urban infiltrators"],
-      "powers": ["Shapeshifting", "illusion", "fire and storm magic"],
-      "agenda": "Tricksters, protectors, predators — fractured clans debating their future."
-    },
-    "beastfolk": {
-      "domains": ["Arctic", "deserts", "mountains", "slums"],
-      "powers": ["Enhanced senses", "feral magics tied to instinct and pack"],
-      "agenda": "Survival, but whispers of unification grow louder."
-    },
-    "dragons": {
-      "domains": ["Deep oceans", "volcanic cores", "orbital shells"],
-      "powers": ["Raw cosmic energy", "ancient memory-hoards"],
-      "agenda": "Sleep, watch, judge. Awakening would change everything."
-    },
-    "fey_courts": {
-      "domains": ["Dimensional pockets accessed through thresholds like forests or tunnels"],
-      "powers": ["Glamour", "contracts", "reality-warping"],
-      "agenda": "Intrigue, bargains, endless chaos."
-    }
-  },
+	  "elves": {
+		"domains": ["Amazon rainforests", "Siberian taiga enclaves", "hidden biodomes camouflaged by illusion"],
+		"powers": ["Biomancy", "nature-shaping", "photosynthetic healing", "symbiotic binding with flora"],
+		"agenda": "Preserve Earth’s wilds; fractured between isolationist Keepers, human-aiding Reformers, and the militant Verdant Circle."
+	  },
+
+	  "dwarves": {
+		"domains": ["Subterranean forge-cities beneath tectonic seams", "deep strata under megacities", "abandoned mines turned resonant sanctums"],
+		"powers": ["Rune-forging", "resonance metallurgy", "earthsong manipulation", "elemental harmonics"],
+		"agenda": "Maintain secrecy while subtly fueling humanity’s industries with miracle alloys; some wish to reclaim the surface as a dwarven dominion."
+	  },
+
+	  "kitsune": {
+		"domains": ["Shrines veiled in mist", "spirit-woods hidden between worlds", "urban infiltrators among neon skylines"],
+		"powers": ["Shapeshifting", "illusion", "foxfire manipulation", "storm-binding rites", "soul mirroring"],
+		"agenda": "Tricksters, guardians, and predators. Ancient clans debate their place in a modern world — conceal, conquer, or coexist."
+	  },
+
+	  "lycans": {
+		"domains": ["Northern forests", "urban underbellies", "war-torn frontiers where human cruelty thrives"],
+		"powers": ["Moonborne metamorphosis", "kin-bond empathy", "blood memory projection"],
+		"agenda": "Survival and unity; once divided into packs of rage and restraint, now dreaming of a shared moonlit nation."
+	  },
+
+	  "felinari": {
+		"domains": ["Saharan ruins", "rooftops of megacities", "ancient temple cities buried beneath sand"],
+		"powers": ["Agility-based precognition", "shadow-step movement", "emotive telepathy through purr resonance"],
+		"agenda": "Seek balance between pride and independence; legends speak of a ‘Golden Pride’ that will unify the scattered tribes."
+	  },
+
+	  "ursans": {
+		"domains": ["Arctic tundra", "mountain fortresses", "ancient glaciers hiding spirit wells"],
+		"powers": ["Thermal shielding", "spiritual endurance", "earth-binding resilience"],
+		"agenda": "Preserve the Old Ways. The Ursans act as living memory-keepers of the primordial age, resisting both human encroachment and fey influence."
+	  },
+
+	  "avians": {
+		"domains": ["Sky citadels above jet streams", "ruins suspended in magnetic storms", "isolated cliffside monasteries"],
+		"powers": ["Wind mastery", "storm calling", "aerokinetic flight", "clairvoyant sight through storm eyes"],
+		"agenda": "Divided between the Skyward Creed who guide humanity and the Tempest Flock who wish to purge it."
+	  },
+
+	  "dragons": {
+		"domains": ["Deep oceans", "volcanic cores", "orbital shells", "quantum rifts where time bends"],
+		"powers": ["Raw cosmic energy", "ancient memory-hoards", "reality anchoring", "aetheric flame"],
+		"agenda": "Sleep, watch, judge. The awakening of even one would shift the world’s balance; ancient covenants keep them dreaming — for now."
+	  },
+
+	  "fey_courts": {
+		"domains": ["Dimensional pockets accessed through thresholds — old tunnels, forests, mirrors", "dreamscapes woven by forgotten songs"],
+		"powers": ["Glamour", "contracts", "reality-warping", "emotion harvesting"],
+		"agenda": "Perpetual intrigue and chaos; the Seelie seek balance, the Unseelie seek amusement — both feed on mortal wonder and fear."
+	  },
+
+	  "merfolk": {
+		"domains": ["Trench cities", "coral fortresses", "flooded ruins of ancient empires"],
+		"powers": ["Hydrokinesis", "songcraft illusion", "pressure adaptation", "marine telepathy"],
+		"agenda": "Reclaim the drowned lands of myth. Some trade with humans, others sabotage coastal empires that pollute their realm."
+	  },
+
+	  "djinn": {
+		"domains": ["Desert storms", "dimensional flame realms", "abandoned oilfields saturated with aether residue"],
+		"powers": ["Wishcraft through loopholes", "fire conjuration", "dimensional binding"],
+		"agenda": "Seek liberation from ancient seals; their pacts echo still through modern corporate ‘contracts’ written in unseen ink."
+	  },
+
+	  "necrolites": {
+		"domains": ["Catacombs under megacities", "digital afterlife servers", "deserts of lost souls"],
+		"powers": ["Spirit-binding", "data necromancy", "reanimation through circuitry"],
+		"agenda": "Bridge life and death, arguing that mortality is obsolete; opposed fiercely by the Church and by the Fey."
+	  }
+	},
   "magic": {
     "nature": "A natural force bound into matter, emotion, and will.",
     "disciplines": [
@@ -51,7 +92,8 @@
   "factions_and_politics": {
     "concord_of_silence": "A fragile pact between elves, dwarves, kitsune, and beastfolk to remain hidden from humanity.",
     "shattered_courts": "Fey refuse the Concord, meddling openly in mortal affairs.",
-    "rogues": "Vampiric covens, cults, and beastfolk war-bands defy all treaties, feeding on human populations."
+    "rogues": "Vampiric covens, cults, and beastfolk war-bands defy all treaties, feeding on human populations.",
+	"F.E.A.R": "Foundation for Ethereal Affairs & Regulation, A global faction founded as a type of police force between humans and all others. they are on the side of peace, not human or magic folk. F.E.A.R Agents are called Shades"
   },
   "story_hooks": [
     "The First Contact — A human probe finds a magical being under Europa’s ice.",
@@ -400,23 +442,5 @@
       "rivalries": "Free-wind courts vs bound-contract houses over wish ethics.",
       "secrets": "Most ‘three-wish’ myths are NDAs; real bargains are amortized across generations."
     }
-  },
-  "adventure_modules": [
-    {
-      "title": "Ghosts in the Machine",
-      "summary": "A rogue AI begins channeling magic, drawing the Fey’s interest. Players must decide whether to protect it or destroy it."
-    },
-    {
-      "title": "The Drowned Bazaar",
-      "summary": "A Fey market surfaces in a flooded district of New Shanghai, tempting humans with cursed bargains."
-    },
-    {
-      "title": "The Dragon’s Breath",
-      "summary": "A volcano rumbles with signs of a waking dragon. Players must choose whether to wake it, calm it, or use its power."
-    },
-    {
-      "title": "The Blood Syndicate",
-      "summary": "A vampire-run market for human lifeforce grows in influence. Can the players dismantle it before discovery?"
-    }
-  ]
+  }
 }

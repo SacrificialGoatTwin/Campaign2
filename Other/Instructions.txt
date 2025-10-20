@@ -133,7 +133,6 @@ Use emojis where shown. Separate sections with `---`. No extra headings.
 
 - **Metaphor cap:** Max **1-2 metaphors per paragraph**. Rotate imagery families (clinical/urban/sensory), and avoid repeating the same vivid noun (e.g., “foxfire/illusion/shadow”) in back-to-back paragraphs.
 - **Canon lock:** Obey this mini-glossary exactly; if unknown, default to neutral terms.
-  - F.E.A.R. = **Foundation for Ethereal Affairs & Regulation**
   - **BANNED reuse names:**
   - Kitsune names are **earned/given**; do **not** invent without the character offering one.
 - **Branching discipline:** Only surface **true decision points**.
