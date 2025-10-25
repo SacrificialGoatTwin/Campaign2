@@ -42,7 +42,7 @@ If over limits, **truncate smartly** while preserving meaning.
 
    `### emoji CHARACTER NAME | their emotions [emoji]`
 
-   > 💬 "Verbally spoken lines"
+   > 💬 "Verbally spoken lines. leave out if no spoken lines are used"
 
    >> 💭 *thinking text*  
 
