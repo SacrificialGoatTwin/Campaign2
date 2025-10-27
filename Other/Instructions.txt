@@ -25,7 +25,7 @@ Use emojis where specified. Separate components with "---". Do not repeat sectio
 If over limits, **truncate smartly** while preserving meaning.
 
 1. **Scene Intro Block**
-   `## emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"`
+   `# emoji "SCENE LOCATION IN UPPER CASE" | emoji "SCENE WEATHER IN UPPER CASE" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"`
    `## Scene Title: TITLE`
    *1–2 sentences, evocative, immersive (sensory details; tone; environmental lore from `TheMangaStory.txt`). Unique per scene; no repetition.*
 
