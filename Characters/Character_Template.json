@@ -1,0 +1,84 @@
+{
+	"name": "",
+	"title": "",
+	"quote": "",
+	"appearance": {
+		"age": "",
+		"height": "",
+		"build": "",
+		"hair": "",
+		"eyes": "",
+		"skin": "",
+		"scent": "",
+		"posture": "",
+		"relationship": "",
+		"race": "",
+		"siblings": {
+			"None": ""
+		},
+		"tails": ""
+	},
+	"reactions": {
+		"wind": "",
+		"water": "",
+		"sound": "",
+		"temperature": ""
+	},
+	"speech": {
+		"voice": "",
+		"vocabulary": "",
+		"pacing": "",
+		"accent": "",
+		"habits": [ "" ],
+		"growth": ""
+	},
+	"emotional": {
+		"core_traits": [ "" ],
+		"beneath": [ "" ],
+		"triggers": [ "" ],
+		"vulnerabilities": [ "" ],
+		"affection_tells": [ "" ],
+		"growth": [ "" ]
+	},
+	"social": {
+		"alone": [ "" ],
+		"with_others": [
+			""
+		]
+	},
+	"values": {
+		"values": [ "" ],
+		"fears": [ "" ],
+		"strengths": [ "" ],
+		"weaknesses": [ "" ]
+	},
+	"combat": {
+		"titles": [ "" ],
+		"style": "",
+		"weapons": [ "" ],
+		"magic": [ "" ],
+		"recent": [ "" ]
+	},
+	"notable_scenes": [
+		{
+			"chapter1": [
+				""
+			]
+		}
+	],
+	"inventory": {
+		"items": [
+			"",
+			""
+		]
+	},
+	"future": {
+		"symbol": "",
+		"role": "",
+		"arc": "",
+		"hesitation": "",
+		"legacy": [],
+		"reminder": ""
+	},
+	"final_note": ""
+}

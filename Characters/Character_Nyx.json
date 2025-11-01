@@ -1,0 +1,88 @@
+{
+  "name": "Vespera Nyx",
+  "title": "The Exiled Howl",
+  "quote": "Exile's thorn carves the sharpest fang.",
+  "appearance": {
+    "age": "Appears mid-20s, true age scarred by 28 years of northern winters",
+    "height": "175 cm",
+    "build": "Lithe and wiry, forged for endurance—muscles coiled like frost under pine bark",
+    "hair": "Silver-gray, wild and untamed, falling in waves that catch moonlight like rime",
+    "eyes": "Silver—piercing and reflective, holding the gleam of endless taiga nights",
+    "skin": "Pale with a subtle frost-blue undertone, marked by faint silver scars from pack rites",
+    "scent": "Pine resin and fresh snow, edged with the metallic tang of blood from old hunts",
+    "posture": "Alert and prowling, always half-poised for flight or fang",
+    "relationship": "Single",
+    "race": "Lycan (Wolf-kin)",
+    "siblings": {
+      "None": "Lost in cull-winter"
+    },
+    "tails": "N/A (Lycan form: bushy silver-gray tail)"
+  },
+  "reactions": {
+    "wind": "Ears prick sharp, leaning into it as if tasting distant pack-howls",
+    "water": "Paws test the flow warily, lapping quick before shaking off with a low growl",
+    "sound": "Snaps to whispers of cub-cry or silver-clink, ignoring thunder's empty roar",
+    "temperature": "Thrives in cold's bite, heat makes her pace restless like a caged storm"
+  },
+  "speech": {
+    "voice": "Husky and edged, like wind through taiga pines",
+    "vocabulary": "Raw and direct, laced with northern grit and sly barbs",
+    "pacing": "Measured bursts, quick when riled, trailing off like fading howls",
+    "accent": "Thick northern drawl, rolling 'r's like distant thunder",
+    "habits": ["Huffs before sharp truths", "Eyes narrow mid-sentence on lies"],
+    "growth": "Learns to voice vulnerabilities without baring throat"
+  },
+  "emotional": {
+    "core_traits": ["Wary", "Protective", "Defiant"],
+    "beneath": ["Loyalty's ache", "Yearning for pack-bonds", "Buried grief for lost cubs"],
+    "triggers": ["Threats to the vulnerable", "False oaths", "Cage-echoes"],
+    "vulnerabilities": ["Trusts slow, isolates when hurt", "Haunted by cull-winter failures"],
+    "affection_tells": ["Subtle nuzzles", "Shared silences by firelight", "Protective flanks"],
+    "growth": ["From lone survivor to chosen pack-guard", "Embraces bonds without exile's shadow"]
+  },
+  "social": {
+    "alone": ["Paces moonlit edges", "Hunts small shadows for solace", "Whittles bone-charms from old kills"],
+    "with_others": [
+      "Tests bonds with sly challenges",
+      "Guards flanks fiercely once earned",
+      "Shares hunts and howls without words"
+    ]
+  },
+  "values": {
+    "values": ["Kin above all", "Freedom from chains", "Honest fang over hidden thorn"],
+    "fears": ["Losing more cubs to cull-hunger", "Eternal lone-howls", "Becoming the alpha she fled"],
+    "strengths": ["Unyielding endurance", "Instinct's keen edge", "Loyalty that bites deep"],
+    "weaknesses": ["Stubborn isolation", "Rage-blind charges", "Doubts her own worth post-exile"]
+  },
+  "combat": {
+    "titles": ["The Thorned Exile", "Frostfang Rogue"],
+    "style": "Feral and evasive—strikes like winter wind, relentless and unpredictable",
+    "weapons": ["Silver-tipped claws", "Pack-rite dagger from cull-winter"],
+    "magic": ["Moonborne rage-shift", "Kin-bond empathy for pack calls"],
+    "recent": ["Rended Thorne's goons in dock-frenzy, guarding freed kin"]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Challenged alpha Garrick over starving cubs, earning exile's bite",
+        "Allied with Whisper in Shinjuku vents, testing trust in shadow-talk",
+        "Mauling guards in Yokohama chaos, tails flaring for kitsune cub"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "Cull-winter dagger, etched with lost pack-runes",
+      "Silver-scar talisman from northern shaman"
+    ]
+  },
+  "future": {
+    "symbol": "A thorn-wreathed moon",
+    "role": "Guardian of strays, bridge between lone howls and chosen packs",
+    "arc": "From thorned exile to self-forged alpha of her own making",
+    "hesitation": "Fears her rage will cull the bonds she craves",
+    "legacy": ["Founder of rogue havens", "Whisperer of free paths"],
+    "reminder": "Thorns carve, but do not define the howl"
+  },
+  "final_note": "Vespera Nyx is the frost that guards the flame."
+}

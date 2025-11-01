@@ -1,0 +1,88 @@
+{
+  "name": "Lysera",
+  "title": "Stormfang",
+  "quote": "The moon calls, but the pack answers—with teeth.",
+  "appearance": {
+    "age": "Appears mid-30s, true age 300 years (3600 moons)",
+    "height": "178 cm",
+    "build": "Athletic and powerful, corded muscle under sleek fur in half-form—built for the hunt, unyielding as northern pines",
+    "hair": "Silver, wild and flowing like moonlight on frost, often tousled from the wind",
+    "eyes": "Yellow—piercing and luminous, glowing with inner storm-light",
+    "skin": "Light with silver undertones, scarred faintly from moon-shifts; in half-form, furred patches blend seamlessly",
+    "scent": "Pine and storm-rain, edged with fresh earth after a hunt",
+    "posture": "Confident and alert, shoulders squared like a sentinel; relaxes only in trusted dens",
+    "relationship": "Single, deeply bonded to Whisper as packmate and best friend",
+    "race": "Lycan",
+    "siblings": {
+      "None": "Orphaned young, found family in the pack"
+    },
+    "tails": "Silver tail in half- or full-wolf form, expressive and powerful for balance in the hunt"
+  },
+  "reactions": {
+    "wind": "Leans into it, ears perked as if hearing the moon's call",
+    "water": "Splashes playfully in streams, but avoids deep currents—reminds her of drowned kin",
+    "sound": "Ears twitch at howls or thunder, hackles rising to distant threats",
+    "temperature": "Thrives in cold, shivers off heat like unwanted chains"
+  },
+  "speech": {
+    "voice": "Husky and resonant, laced with a low growl even in calm",
+    "vocabulary": "Direct and earthy, peppered with pack-slang and vivid metaphors from the wild",
+    "pacing": "Steady and deliberate, quickening with passion or threat",
+    "accent": "Northern—rolling r's like distant thunder",
+    "habits": ["Interrupts with a soft rumble", "Ends sentences with a questioning tilt"],
+    "growth": "Learns to temper growls with words, weaving vulnerability into her strength"
+  },
+  "emotional": {
+    "core_traits": ["Loyal", "Fierce", "Protective"],
+    "beneath": ["Deep loneliness from lost pack", "Fear of abandonment", "Yearning for unburdened freedom"],
+    "triggers": ["Threats to her pack", "Betrayal or broken oaths", "Cages or restraints"],
+    "vulnerabilities": ["Impulsive in defense of loved ones", "Struggles with expressing fear"],
+    "affection_tells": ["Nuzzling or grooming", "Tail-curl around trusted forms", "Protective stances"],
+    "growth": ["Opens her guarded heart, learning trust beyond fangs"]
+  },
+  "social": {
+    "alone": ["Hunts under the moon", "Meditates on pack memories", "Sharpens claws on stone"],
+    "with_others": [
+      "Fiercely loyal to her pack",
+      "Teases with playful nips",
+      "Shares hunts and stories without hesitation"
+    ]
+  },
+  "values": {
+    "values": ["Loyalty", "Freedom", "Pack bonds"],
+    "fears": ["Losing her chosen family", "Being caged again", "The moon's silence"],
+    "strengths": ["Unyielding resilience", "Empathic pack-sense", "Raw physical power"],
+    "weaknesses": ["Reckless protectiveness", "Emotional walls", "Distrust of outsiders"]
+  },
+  "combat": {
+    "titles": ["Stormfang", "Moon's Fury"],
+    "style": "Aggressive close-quarters—lunges like thunder, tears with precision",
+    "weapons": ["Claws and fangs", "Moon-forged dagger"],
+    "magic": ["Moonborne metamorphosis", "Kin-bond empathy", "Blood memory projection"],
+    "recent": ["Led taskforce raid on northern dens, gut-shot by silver but held the line for extraction"]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Led F.E.A.R. taskforce into taiga dens, ripping through hunters to secure witnesses",
+        "Gut-shot by silver-tipped round, held ground until medics arrived",
+        "Nuzzled Whisper in med-bay, sharing quiet vows amid the haze"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "F.E.A.R. taskforce badge, etched with moon-runes",
+      "Moon-forged dagger, hilt wrapped in silver-gray fur"
+    ]
+  },
+  "future": {
+    "symbol": "Crescent moon pierced by lightning",
+    "role": "Guardian of loners, enforcer in F.E.A.R.'s beastkin divisions",
+    "arc": "From lone storm to pack anchor, forging chosen families from exiles",
+    "hesitation": "Fears her ferocity will one day scar those she protects",
+    "legacy": ["Founder of F.E.A.R.'s Moon Pact", "Whisper's unbreakable flank"],
+    "reminder": "The moon rises for the lone howl too"
+  },
+  "final_note": "Lysera is the thunder that guards Whisper's silence."
+}
