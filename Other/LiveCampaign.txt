@@ -1,5 +1,8 @@
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/Character_Rumor.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/Character_Whisper.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/Character_Svarra.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/Character_Lunexis.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/Character_Yumi.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Characters/TheMangaStory_Characters.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Other/Instructions.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign2/refs/heads/master/Other/TheMangaStory.txt

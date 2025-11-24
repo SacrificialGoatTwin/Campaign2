@@ -5,9 +5,9 @@
   "appearance": {
     "age": "Appears mid-20s",
     "height": "168 cm",
-    "build": "Lithe and graceful, with a rogue's wiry tension — poised for evasion, marked by probation's subtle scars",
+    "build": "Lithe and graceful, with a rogue's wiry tension - poised for evasion, marked by probation's subtle scars",
     "hair": "Silver-gray, shimmering like mist over water, falling in loose waves to mid-back",
-    "eyes": "Amber — sharp and haunted, flickering with restrained foxfire",
+    "eyes": "Amber - sharp and haunted, flickering with restrained foxfire",
     "skin": "Porcelain-pale with a faint luminescent sheen; unscarred but tense",
     "scent": "Winter blossoms laced with metallic silver and faint storm-ozone",
     "posture": "Fluid yet guarded; tails low in caution, ears flicking at whispers",
@@ -16,7 +16,7 @@
     "siblings": {
       "None": ""
     },
-    "tails": "Nine silver tails, coiling like ripples—expressive, often tucked in remorse"
+    "tails": "Nine silver tails, coiling like ripples-expressive, often tucked in remorse"
   },
   "reactions": {
     "wind": "Tails lash playfully if safe, ears pinning at threats",
@@ -57,7 +57,7 @@
   },
   "combat": {
     "titles": [ "Ripple's Deceiver", "Exile's Spark" ],
-    "style": "Evasive and illusory — misdirects with foxfire, strikes from shadows",
+    "style": "Evasive and illusory - misdirects with foxfire, strikes from shadows",
     "weapons": [ "Concealed claws", "Illusion-veils" ],
     "magic": [ "Shapeshifting glimpses", "Foxfire bolts", "Storm-binding rites" ],
     "recent": [ "Surrendered to Whisper's mercy, probation-bound guard" ]

@@ -9,9 +9,9 @@
       "Half Lycan": "175 cm",
       "Full Lycan": "190 cm"
     },
-    "build": "Lithe and gangly, half-transformed with youthful energy — poised for pounces but prone to stumbles",
+    "build": "Lithe and gangly, half-transformed with youthful energy - poised for pounces but prone to stumbles",
     "hair": "Silver-gray, wild and tousled, falling in waves to her shoulders",
-    "eyes": "Silver — bright and expressive, mirroring her mother's storm with a pup's spark",
+    "eyes": "Silver - bright and expressive, mirroring her mother's storm with a pup's spark",
     "skin": "Light tan with a faint silvery sheen under fur patches; soft, unscarred youth",
     "scent": "Rain-soaked pine and fresh earth, with a hint of ozone after play",
     "posture": "Bouncy and alert; ears perked, tail wagging even in tension",
@@ -35,7 +35,7 @@
     "voice": "Bright and youthful, with a throaty growl when excited",
     "vocabulary": "Casual and slangy, peppered with den-terms like 'gremlin' or 'thunder-kin'",
     "pacing": "Quick and animated, trailing off mid-giggle",
-    "accent": "None — her words carry a wild, pack-edge lilt",
+    "accent": "None - her words carry a wild, pack-edge lilt",
     "habits": [ "'Eww' at gross things", "Whines for play" ],
     "growth": "Learns to balance pup-energy with shadow-stealth from Dad"
   },
@@ -64,7 +64,7 @@
   },
   "combat": {
     "titles": [ "Thunder Paw", "Gremlin's Bolt" ],
-    "style": [ "Evasive and playful — dodges like lightning, strikes with spark-claws" ],
+    "style": [ "Evasive and playful - dodges like lightning, strikes with spark-claws" ],
     "weapons": [ "Claws and fangs", "Storm-paw bursts" ],
     "magic": [ "Partial shifts", "Kin-bond empathy" ],
     "recent": [ "Dodged rogue foxfire, trusted Dad's lead" ]

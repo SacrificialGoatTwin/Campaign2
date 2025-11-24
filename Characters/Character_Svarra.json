@@ -9,9 +9,9 @@
       "Half Lycan": "185 cm",
       "Full Lycan": "390 cm"
     },
-    "build": "Towering and powerful, half-transformed — broad-shouldered with sleek muscle, wolf legs and paws for predatory grace",
+    "build": "Towering and powerful, half-transformed - broad-shouldered with sleek muscle, wolf legs and paws for predatory grace",
     "hair": "Silver-gray, thick and flowing like a mane, often tied back for hunts",
-    "eyes": "Silver — piercing and stormy, carrying the weight of ancient packs",
+    "eyes": "Silver - piercing and stormy, carrying the weight of ancient packs",
     "skin": "Light tan with silvery fur patches; scarred faintly from old unifications",
     "scent": "Rain-soaked pine and hearth-smoke, with a deep undercurrent of ozone",
     "posture": "Commanding yet relaxed; ears alert, tail a subtle sway of authority",
@@ -32,7 +32,7 @@
     "voice": "Throaty and rumbling, laced with alpha's command",
     "vocabulary": "Direct and pack-wise, edged with old-world growls",
     "pacing": "Deliberate and measured, pauses heavy with meaning",
-    "accent": "None — her words carry a wild, northern lilt from ancient dens",
+    "accent": "None - her words carry a wild, northern lilt from ancient dens",
     "habits": [ "Rumbles in affection", "Nips playfully in tease" ],
     "growth": "Balances alpha's fire with den's quiet nurture"
   },
@@ -61,7 +61,7 @@
   },
   "combat": {
     "titles": [ "First Storm", "Alpha's Fury" ],
-    "style": "Dominant and overwhelming — charges with thunderous force, pins with claw and fang",
+    "style": "Dominant and overwhelming - charges with thunderous force, pins with claw and fang",
     "weapons": [ "Claws and fangs", "Storm-shifts" ],
     "magic": [ "Moonborne metamorphosis", "Kin-bond empathy", "Blood memory projection" ],
     "recent": [ "" ]
