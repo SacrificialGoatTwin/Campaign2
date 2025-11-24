@@ -334,7 +334,7 @@
       }
     ]
   },
-  {
+
   "map_concepts": {
     "undercities": "Dwarven forges and lost human sub-levels beneath megacities.",
     "hidden_forests": "Bio-shielded elf sanctuaries where trees glow with living light.",
@@ -352,93 +352,92 @@
   },
   "faction_rosters": {
     "elves": {
-      "leaders": ["Selvarin the Rootbinder", "Kaelith Starborn"],
+      "leaders": [ "Selvarin the Rootbinder", "Kaelith Starborn" ],
       "rivalries": "Reformist elves clash with isolationist elders.",
       "secrets": "They maintain living trees older than human civilization."
     },
     "dwarves": {
-      "leaders": ["Thorgun Emberforge", "Rilka Stonevoice"],
+      "leaders": [ "Thorgun Emberforge", "Rilka Stonevoice" ],
       "rivalries": "Clan Emberforge vs Clan Deepdelve over control of rune-tech.",
       "secrets": "They control rare alloys critical to human aerospace tech."
     },
     "kitsune": {
-      "leaders": ["Lady Itsuko of the Red Flame", "Daichi the Trickster"],
+      "leaders": [ "Lady Itsuko of the Red Flame", "Daichi the Trickster" ],
       "rivalries": "Guardian clans vs predator clans.",
       "secrets": "Some infiltrate human governments as advisors."
     },
     "fey": {
-      "leaders": ["Queen Thryssa of the Seelie", "Lord Varrow of the Unseelie"],
+      "leaders": [ "Queen Thryssa of the Seelie", "Lord Varrow of the Unseelie" ],
       "rivalries": "Endless courtly wars of trickery and betrayal.",
       "secrets": "They may have seeded humanity’s myths to control them."
     },
-
     "merfolk": {
-      "leaders": ["Admiral Nerissa Tidechain", "Archivist Pelagos-3"],
+      "leaders": [ "Admiral Nerissa Tidechain", "Archivist Pelagos-3" ],
       "rivalries": "Harbor clans feud with deep-trench monastery schools over contact with surface trade.",
       "secrets": "They can read data-ghosts lingering in undersea cables like scripture."
     },
     "dragons": {
-      "leaders": ["Vyr Khol the Ledgered Ember", "Aurelion of the Nine Ledgers"],
+      "leaders": [ "Vyr Khol the Ledgered Ember", "Aurelion of the Nine Ledgers" ],
       "rivalries": "Old hoardlords vs young venture-drakes on whether wealth is gold or information.",
       "secrets": "Some ‘extinct’ flights exist as corporate holding companies with airspace charters."
     },
     "giants": {
-      "leaders": ["Cloudspeaker Hrold", "Matron Basalt of the Deep Strata"],
+      "leaders": [ "Cloudspeaker Hrold", "Matron Basalt of the Deep Strata" ],
       "rivalries": "Sky-born cloud giants disdain stone-born titans for ‘crawling’ politics.",
       "secrets": "They terraform by humming—mountain resonance shifts weather over seasons."
     },
     "goblins": {
-      "leaders": ["Tinkermayor Rizzit Switchcap", "Union Boss Kettlegrin"],
+      "leaders": [ "Tinkermayor Rizzit Switchcap", "Union Boss Kettlegrin" ],
       "rivalries": "Tinker guilds vs street syndicates over salvage rights.",
       "secrets": "They hide the fail-safes for two megacity power grids inside children’s wind-up toys."
     },
     "dryads": {
-      "leaders": ["Thaleia of the Amber Phloem", "Yew-Warden Moru"],
+      "leaders": [ "Thaleia of the Amber Phloem", "Yew-Warden Moru" ],
       "rivalries": "Urban park-spirits resent old-growth matrons for ‘hoarding’ sap routes.",
       "secrets": "They can migrate a forest single-tree-at-a-time along subway medians."
     },
     "nocturnals": {
-      "leaders": ["Countess Vespara of the Violet Gate", "Doctor Lumen Black"],
+      "leaders": [ "Countess Vespara of the Violet Gate", "Doctor Lumen Black" ],
       "rivalries": "Ethical hemovores vs predators who treat cities as farms.",
       "secrets": "They engineered synthetic vitae centuries ago but suppress it to control politics."
     },
     "therian_clans": {
-      "leaders": ["Redtooth Marrok", "Swift-Pride Anya"],
+      "leaders": [ "Redtooth Marrok", "Swift-Pride Anya" ],
       "rivalries": "Wolves, panthers, and bears argue over ward-patrol doctrine and human alliances.",
       "secrets": "Moon-rituals are a cover; true trigger is infrasound buried in city sirens."
     },
     "naga": {
-      "leaders": ["Speaker Sesha Coilwise", "General Narkesh of the Seven Helms"],
+      "leaders": [ "Speaker Sesha Coilwise", "General Narkesh of the Seven Helms" ],
       "rivalries": "Temple guardians vs militant river legions over interventionism.",
       "secrets": "Their ‘curse’ is voluntary—shedding to change identities in plain sight."
     },
     "avians": {
-      "leaders": ["Harrier-King Talos", "Stormscribe Irielle"],
+      "leaders": [ "Harrier-King Talos", "Stormscribe Irielle" ],
       "rivalries": "Courier guilds vs sky-priests over control of storm corridors.",
       "secrets": "They map lightning like rail timetables and can predict strikes to the second."
     },
     "selkies": {
-      "leaders": ["Matriarch Eira of the Seal-Clad", "Broker Finn Tidecloak"],
+      "leaders": [ "Matriarch Eira of the Seal-Clad", "Broker Finn Tidecloak" ],
       "rivalries": "Family pods feud with mercantile brokers over pelt-rite traditions.",
       "secrets": "They run witness-protection ‘harbors’ by loaning skins and new names."
     },
     "salamanders": {
-      "leaders": ["Kilnmaster Pyrr", "Cinder-Monk Vaela"],
+      "leaders": [ "Kilnmaster Pyrr", "Cinder-Monk Vaela" ],
       "rivalries": "Forge orders vs ascetic fire-walkers on whether flame is tool or teacher.",
       "secrets": "They can smelt memory into glass beads that replay moments when warmed."
     },
     "sphinx_conclave": {
-      "leaders": ["Asha-of-Three-Questions", "Regent Nebu of Sand and Code"],
+      "leaders": [ "Asha-of-Three-Questions", "Regent Nebu of Sand and Code" ],
       "rivalries": "Traditional riddle-law vs modern ‘captcha courts’ that adjudicate digital oaths.",
       "secrets": "They maintain a hidden ledger of true names that can unlock fey thresholds safely."
     },
     "tanuki_consortium": {
-      "leaders": ["Chairman Boro of Seven Bottles", "Auditor Hachi-Patch"],
+      "leaders": [ "Chairman Boro of Seven Bottles", "Auditor Hachi-Patch" ],
       "rivalries": "Prank cooperatives vs sober accountants over how much chaos is ‘good business.’",
       "secrets": "They own 11% of vending machines in the Eastern Bloc—every third is a disguised gatekeeper."
     },
     "djinn": {
-      "leaders": ["Arbitrator Zafir al-Haze", "Glassbound Layla"],
+      "leaders": [ "Arbitrator Zafir al-Haze", "Glassbound Layla" ],
       "rivalries": "Free-wind courts vs bound-contract houses over wish ethics.",
       "secrets": "Most ‘three-wish’ myths are NDAs; real bargains are amortized across generations."
     }
