@@ -1,0 +1,95 @@
+{
+  "name": "Lunexis",
+  "title": "Storm Pup",
+  "quote": "Storms are fun if you have paws to chase the lightning!",
+  "appearance": {
+    "age": "16",
+    "height": {
+      "Human": "165 cm",
+      "Half Lycan": "175 cm",
+      "Full Lycan": "190 cm"
+    },
+    "build": "Lithe and gangly, half-transformed with youthful energy — poised for pounces but prone to stumbles",
+    "hair": "Silver-gray, wild and tousled, falling in waves to her shoulders",
+    "eyes": "Silver — bright and expressive, mirroring her mother's storm with a pup's spark",
+    "skin": "Light tan with a faint silvery sheen under fur patches; soft, unscarred youth",
+    "scent": "Rain-soaked pine and fresh earth, with a hint of ozone after play",
+    "posture": "Bouncy and alert; ears perked, tail wagging even in tension",
+    "relationship": "Single",
+    "race": [
+      "Dire Wolf Lycan",
+      "Eternal"
+    ],
+    "siblings": {
+      "None": ""
+    },
+    "tails": "Fluffy silver tail, expressive and often wagging"
+  },
+  "reactions": {
+    "wind": "Ears flatten playfully, tail whipping as if chasing storms",
+    "water": "Splashes with paws, half-shifting for a swim if possible",
+    "sound": "Ears swivel sharp to whispers or howls, growling at threats",
+    "temperature": "Loves the cold; heat makes her pant and seek shade"
+  },
+  "speech": {
+    "voice": "Bright and youthful, with a throaty growl when excited",
+    "vocabulary": "Casual and slangy, peppered with den-terms like 'gremlin' or 'thunder-kin'",
+    "pacing": "Quick and animated, trailing off mid-giggle",
+    "accent": "None — her words carry a wild, pack-edge lilt",
+    "habits": [ "'Eww' at gross things", "Whines for play" ],
+    "growth": "Learns to balance pup-energy with shadow-stealth from Dad"
+  },
+  "emotional": {
+    "core_traits": [ "Eager", "Loyal", "Playful" ],
+    "beneath": [ "Insecurity about fitting in", "Fear of world's dangers", "Yearning for pack-bonds" ],
+    "triggers": [ "Isolation", "Threats to family", "Being treated as 'other'" ],
+    "vulnerabilities": [ "Impulsive in fights", "Clumsy with paws", "Craves approval" ],
+    "affection_tells": [ "Tail-thumps", "Nuzzles and nips", "Paw-holds" ],
+    "growth": [ "Builds confidence through adventures", "Learns trust's weight" ]
+  },
+  "social": {
+    "alone": [ "Practices shifts", "Doodles storm-sketches", "Whines to stuffed toys" ],
+    "with_others": [
+      "Bouncy with friends",
+      "Protective of family",
+      "Teases Dad playfully",
+      "Snuggles Mom for stories"
+    ]
+  },
+  "values": {
+    "values": [ "Family", "Play", "Bravery" ],
+    "fears": [ "Losing pack", "Not fitting in", "World's dangers" ],
+    "strengths": [ "Quick learner", "Loyal heart", "Storm-magic spark" ],
+    "weaknesses": [ "Impulsive", "Clumsy shifts", "Teen rebellion" ]
+  },
+  "combat": {
+    "titles": [ "Thunder Paw", "Gremlin's Bolt" ],
+    "style": [ "Evasive and playful — dodges like lightning, strikes with spark-claws" ],
+    "weapons": [ "Claws and fangs", "Storm-paw bursts" ],
+    "magic": [ "Partial shifts", "Kin-bond empathy" ],
+    "recent": [ "Dodged rogue foxfire, trusted Dad's lead" ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "First fox encounter: Trusted Dad during alley attack",
+        "Made friend Kira: Spark-play in mist glade"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "Hooded jacket for ears",
+      "Paw-gloves for school"
+    ]
+  },
+  "future": {
+    "symbol": "Silver lightning bolt",
+    "role": "Storm-runner, bridge between worlds",
+    "arc": "From clumsy pup to confident guardian",
+    "hesitation": "Fears not measuring up to parents' legends",
+    "legacy": [ "Pack-builder", "Spark of unity" ],
+    "reminder": "Storms pass, but family endures"
+  },
+  "final_note": "Lunexis is the spark that lights her parents' endless storm."
+}

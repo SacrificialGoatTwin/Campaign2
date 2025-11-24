@@ -1,0 +1,92 @@
+{
+  "name": "Svarra",
+  "title": "Storm Alpha",
+  "quote": "Power's roar fades; the quiet den holds true thunder.",
+  "appearance": {
+    "age": "Appears mid-30s, true age over 40,000 years",
+    "height": {
+      "Human": "175 cm",
+      "Half Lycan": "185 cm",
+      "Full Lycan": "390 cm"
+    },
+    "build": "Towering and powerful, half-transformed — broad-shouldered with sleek muscle, wolf legs and paws for predatory grace",
+    "hair": "Silver-gray, thick and flowing like a mane, often tied back for hunts",
+    "eyes": "Silver — piercing and stormy, carrying the weight of ancient packs",
+    "skin": "Light tan with silvery fur patches; scarred faintly from old unifications",
+    "scent": "Rain-soaked pine and hearth-smoke, with a deep undercurrent of ozone",
+    "posture": "Commanding yet relaxed; ears alert, tail a subtle sway of authority",
+    "relationship": "Married",
+    "race": "Dire Wolf Lycan. The first Lycan",
+    "siblings": {
+      "None": ""
+    },
+    "tails": "Fluffy silver tail, expressive and curling possessively"
+  },
+  "reactions": {
+    "wind": "Ears flatten with a rumble, tail lashing as if summoning storms",
+    "water": "Paws in rivers for contemplative wades, half-shifting for deeper swims",
+    "sound": "Snaps to howls or threats, growling deep for pack-calls",
+    "temperature": "Thrives in cold; heat draws a restless pant and shadow-seek"
+  },
+  "speech": {
+    "voice": "Throaty and rumbling, laced with alpha's command",
+    "vocabulary": "Direct and pack-wise, edged with old-world growls",
+    "pacing": "Deliberate and measured, pauses heavy with meaning",
+    "accent": "None — her words carry a wild, northern lilt from ancient dens",
+    "habits": [ "Rumbles in affection", "Nips playfully in tease" ],
+    "growth": "Balances alpha's fire with den's quiet nurture"
+  },
+  "emotional": {
+    "core_traits": [ "Protective", "Fierce", "Loyal" ],
+    "beneath": [ "Lingering grief for lost packs", "Joy in reclaimed peace", "Fear of world's threats to family" ],
+    "triggers": [ "Threats to kin", "Broken oaths", "Echoes of old wars" ],
+    "vulnerabilities": [ "Overprotectiveness", "Memories of power's cost", "Reluctance to shift fully" ],
+    "affection_tells": [ "Tail-coils", "Nuzzles and rumbles", "Claw-rakes light" ],
+    "growth": [ "Embraces vulnerability in love", "Teaches pup balance" ]
+  },
+  "social": {
+    "alone": [ "Contemplates horizons", "Hones claws on stone", "Howls soft to moons" ],
+    "Whisper": [ "Inseparable with Whisper" ],
+    "Lunexis": [ "Gentle nurturer to Lune" ],
+    "with_others": [
+      "Alpha-command with pack",
+      "Wary guardian to strangers"
+    ]
+  },
+  "values": {
+    "values": [ "Pack", "Peace", "Endurance" ],
+    "fears": [ "Losing family", "World's unreadiness", "Power's corruption" ],
+    "strengths": [ "Unyielding loyalty", "Storm-magic mastery", "Strategic wisdom" ],
+    "weaknesses": [ "Stubborn protectiveness", "Haunted by past", "Slow to trust outsiders" ]
+  },
+  "combat": {
+    "titles": [ "First Storm", "Alpha's Fury" ],
+    "style": "Dominant and overwhelming — charges with thunderous force, pins with claw and fang",
+    "weapons": [ "Claws and fangs", "Storm-shifts" ],
+    "magic": [ "Moonborne metamorphosis", "Kin-bond empathy", "Blood memory projection" ],
+    "recent": [ "" ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Morning den-rituals: Affection with Whisper",
+        "Evening howls: Stories for Lune"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "Storm-claw gauntlets",
+      "Pack-pendant tether"
+    ]
+  },
+  "future": {
+    "symbol": "Coiled thunder-wolf",
+    "role": "Den guardian, bridge to old powers",
+    "arc": "From conqueror to quiet hearth-keeper",
+    "hesitation": "Fears past wars echoing in pup's world",
+    "legacy": [ "Uniter reborn", "Storm's enduring pack" ],
+    "reminder": "True alpha leads with heart, not howl"
+  },
+  "final_note": "Svarra is the thunder that steadies Whisper's silence."
+}

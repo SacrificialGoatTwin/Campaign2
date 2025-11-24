@@ -1,0 +1,89 @@
+{
+  "name": "Yumi",
+  "title": "Silver Ripple",
+  "quote": "Fire burns brightest when tempered by shadow's mercy.",
+  "appearance": {
+    "age": "Appears mid-20s",
+    "height": "168 cm",
+    "build": "Lithe and graceful, with a rogue's wiry tension — poised for evasion, marked by probation's subtle scars",
+    "hair": "Silver-gray, shimmering like mist over water, falling in loose waves to mid-back",
+    "eyes": "Amber — sharp and haunted, flickering with restrained foxfire",
+    "skin": "Porcelain-pale with a faint luminescent sheen; unscarred but tense",
+    "scent": "Winter blossoms laced with metallic silver and faint storm-ozone",
+    "posture": "Fluid yet guarded; tails low in caution, ears flicking at whispers",
+    "relationship": "Single",
+    "race": "Kitsune",
+    "siblings": {
+      "None": ""
+    },
+    "tails": "Nine silver tails, coiling like ripples—expressive, often tucked in remorse"
+  },
+  "reactions": {
+    "wind": "Tails lash playfully if safe, ears pinning at threats",
+    "water": "Traces ripples with claws, speaking illusions into waves",
+    "sound": "Leans to whispers for secrets, snarls at shouts of betrayal",
+    "temperature": "Prefers cool mists; heat stirs restless fire"
+  },
+  "speech": {
+    "voice": "Clear and silvery, edged with rogue's wary lilt",
+    "vocabulary": "Poetic yet guarded, laced with courtly mischief",
+    "pacing": "Quick when animated, slowing to measured in remorse",
+    "accent": "Shifting subtly to echo listeners, rootless as illusions",
+    "habits": [ "Pauses mid-whisper", "Tails flick emphasis" ],
+    "growth": "Wields words for healing, not deception"
+  },
+  "emotional": {
+    "core_traits": [ "Wary", "Remorseful", "Resilient" ],
+    "beneath": [ "Guilt from exile", "Yearning for redemption", "Spark of mischief unquenched" ],
+    "triggers": [ "Betrayal echoes", "Veil-talk", "Family judgments" ],
+    "vulnerabilities": [ "Self-doubt in probation", "Lone-wolf habits", "Trust's slow rebuild" ],
+    "affection_tells": [ "Tail-brushes", "Soft whines", "Shared illusions" ],
+    "growth": [ "Redeems through guardianship", "Balances fire with shadow" ]
+  },
+  "social": {
+    "alone": [ "Weaves illusions for comfort", "Whispers to ripples", "Gazes at horizons" ],
+    "Whisper": [ "Tentative with Whisper" ],
+    "with_others": [
+      "Guarded with den",
+      "Playful mentor to pups",
+      "Wary of courts"
+    ]
+  },
+  "values": {
+    "values": [ "Redemption", "Harmony", "Truth's tempered fire" ],
+    "fears": [ "Eternal exile", "Repeated mistakes", "Den's loss" ],
+    "strengths": [ "Illusion mastery", "Adaptive guile", "Resilient heart" ],
+    "weaknesses": [ "Impulsive revelations", "Guilt's weight", "Lone tendencies" ]
+  },
+  "combat": {
+    "titles": [ "Ripple's Deceiver", "Exile's Spark" ],
+    "style": "Evasive and illusory — misdirects with foxfire, strikes from shadows",
+    "weapons": [ "Concealed claws", "Illusion-veils" ],
+    "magic": [ "Shapeshifting glimpses", "Foxfire bolts", "Storm-binding rites" ],
+    "recent": [ "Surrendered to Whisper's mercy, probation-bound guard" ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Alley confrontation: Attacked Whisper, yielded to talk",
+        "Was a shattered courts member, now on probation to return to her den",
+        "Illusion trial: Witnessed phantom slaughter, remorse bloomed"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "Telepathic den-ring",
+      "Concealed foxfire amulet"
+    ]
+  },
+  "future": {
+    "symbol": "Silver ripple in storm-water",
+    "role": "Veil-guardian, F.E.A.R. ally",
+    "arc": "From rogue firebrand to tempered redeemer",
+    "hesitation": "Fears probation's failure",
+    "legacy": [ "Bridge-builder", "Fire's quiet guardian" ],
+    "reminder": "Ripples spread, but roots hold true"
+  },
+  "final_note": "Yumi is the ripple that steadies the storm's edge."
+}
